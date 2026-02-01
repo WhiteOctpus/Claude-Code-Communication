@@ -5,6 +5,7 @@ logs/
 
 # 一時ファイル
 tmp/
+work/
 *.tmp
 *_done.txt
 
